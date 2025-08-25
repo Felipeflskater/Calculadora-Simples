@@ -29,8 +29,18 @@ Ideal para iniciantes em Delphi, este projeto demonstra o uso de componentes VCL
 4. Clique em **Calcular** para ver o resultado!
 
 > 💡 Não requer instalação.
-> 💡 Funciona diretamente em qualquer sistema Windows e Linux (Via Wine/Proton).
-> 💡 Testado no Linux pelo Bottles na configuração padrão ¨aplicativos¨
+> 💡 Funciona diretamente em qualquer sistema Windows
+
+---
+
+## 🐧 Compatível com Linux?
+
+Sim! O aplicativo foi testado com sucesso no **Linux** usando:
+- **Wine/Proton**
+- **Bottles** utilizando a configuração ¨Aplicativo¨ (recomendado para melhor experiência)
+
+👉 Basta baixar o `.exe` e executar dentro do Bottles ou outro gerenciador Wine.
+
 ---
 
 ## 💻 Como Compilar (para desenvolvedores)
