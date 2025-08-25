@@ -1,6 +1,6 @@
 # 🔢 Calculadora Simples
 
-![Interface da Calculadora]([imagens/app.png](https://github.com/Felipeflskater/Calculadora-Simples/blob/master/Imagens/App.png?raw=true))
+![Interface da Calculadora](https://github.com/Felipeflskater/Calculadora-Simples/blob/master/Imagens/App.png?raw=true)
 
 Aplicação desktop simples desenvolvida em **Delphi 7** (linguagem **Object Pascal**) como parte de um estudo prático de programação. Esta calculadora permite realizar as operações básicas: **soma, subtração, multiplicação e divisão**.
 
